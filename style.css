@@ -1,0 +1,47 @@
+body {
+    font-family: 'Noto Serif Toto', sans-serif;
+    background-image: url("https://cdn.wallpapersafari.com/41/96/QcdwRP.jpg");
+    margin: 30px;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 60px;
+    text-shadow: 2px 2px blue;
+}
+
+h2 {
+    color: whitesmoke;
+}
+h3 {
+    color: whitesmoke;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    text-decoration-style: wavy;
+}
+
+p {
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.img img .loading{
+    position: absolute;
+}
+
+.part1 img {
+    border-radius: 8px;
+    filter: drop-shadow(10px 10px 12px #7f4f24);
+}
+
+.part2 img {
+    border-radius: 8px;
+    filter: drop-shadow(10px 10px 12px #b08968);
+}
+
+.part3 img {
+    border-radius: 8px;
+    filter: drop-shadow(10px 10px 12px #a47148);
+}
